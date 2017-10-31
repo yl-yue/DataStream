@@ -1,0 +1,12 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "tw.io.traffic.config.DataSourceConfig",
+      "name": "spring.datasource",
+      "sourceMethod": "public javax.sql.DataSource primaryDataSource() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}

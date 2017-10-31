@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active:
+      - url
+      - rule
+      - service
+      - dev
+#      - prod
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        jdbc:
+#          core:
+#            JdbcTemplate: debug
+#            simple:
+#              SimpleJdbcInsert: debug

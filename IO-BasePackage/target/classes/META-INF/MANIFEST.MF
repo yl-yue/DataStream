@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: IO-BasePackage
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Shinelon
+Implementation-Vendor-Id: tw.data.stream
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/data-stream-
+ io/IO-BasePackage/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

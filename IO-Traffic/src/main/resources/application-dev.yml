@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driverClassName: org.postgresql.Driver
+#    url: jdbc:postgresql://localhost:5432/postgres
+    url: jdbc:postgresql://localhost:5432/imos
+    username: postgres
+    password: 123456
+    
+  profiles:
+    active:
+      - url
+      - campus
+      - service
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        jdbc:
+#          core:
+#            JdbcTemplate: debug
+#            simple:
+#              SimpleJdbcInsert: debug

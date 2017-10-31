@@ -1,0 +1,9 @@
+#规则-本地车辆关键字定义
+local: 
+  keywords: 渝
+#规则-敏感车辆关键字定义
+sensitive: 
+  keywords: 新
+#规则-政府车辆关键字定义
+government:
+  keywords: 警, 军, 北, 南, 兰, 济, 空, 海, 使, 领
